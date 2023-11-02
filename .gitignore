@@ -1,4 +1,5 @@
 git rm .env --cached
+git rm --cached .DS_Store
 git commit -m "Any message"
 .DS_Store
 .env
