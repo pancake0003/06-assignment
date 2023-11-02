@@ -1,3 +1,3 @@
 .env
 git rm .env --cached
-git commit -m "Stopped tracking env.local, and env.staging"
+git commit -m
