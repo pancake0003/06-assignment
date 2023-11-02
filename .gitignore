@@ -1,3 +1,2 @@
-.env
 git rm .env --cached
-git commit -m
+git commit -m "Any message"
