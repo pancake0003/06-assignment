@@ -15,7 +15,7 @@ So after some quick fixes to the code, I decided to make it so that the app send
 2. every day at 3am to sleep
 3. every Wednesday 3pm to get some groceries
 
-I implemented this through a helpful cron schedule website:
+I implemented this through a helpful [cron schedule website](https://crontab.guru/):
 
 <img width="1108" alt="Screen Shot 2023-11-14 at 12 14 27 AM" src="https://github.com/pancake0003/notify-app/assets/146360951/3b4117cf-1f49-4eb7-b7cb-f4343771c372">
 
