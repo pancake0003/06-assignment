@@ -7,7 +7,7 @@ var path = require('path');
 // Remember that file paths are relative to the location they are launched from.
 // Thus to find a file that is in the images folder, which is two levels above, or back, 
 // from the current folder, we need to use ".." twice, as below.
-const myFilePath = path.join(__dirname, '../../images/the-command-prompt.jpeg')
+const myFilePath = path.join(__dirname, './egg.png')
 console.log("My image path: ", myFilePath)
 
 var push = new Pushover({
